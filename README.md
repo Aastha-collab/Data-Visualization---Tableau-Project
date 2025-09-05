@@ -54,7 +54,7 @@ This repository contains the solutions for the Deloitte Data Analytics Virtual I
   * `Highly Discriminative` → < -20 OR > 20
 * **Insight**: Classified compensation fairness to detect pay inequality across factories and roles.
 
-![Task 2 Excel](Task2/task2_excel.png)
+![Task 2 Excel](https://github.com/Aastha-collab/Data-Visualization---Tableau-Project/blob/main/Task%202_Equity%20Table.xlsx)
 
 ---
 
