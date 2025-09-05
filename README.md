@@ -40,7 +40,7 @@ This repository contains the solutions for the Deloitte Data Analytics Virtual I
   * **Interactive filters (factory-wise drill down)**
 * **Insight**: Identified the factory with the highest downtime and device types causing delays.
 
-![Task 1 Dashboard](Task1/task1_dashboard.png)
+![Task 1 Dashboard](https://github.com/Aastha-collab/Data-Visualization---Tableau-Project/blob/main/Tableau%20Dashboard.png)
 
 ---
 
