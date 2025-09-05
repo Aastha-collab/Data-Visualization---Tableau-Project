@@ -72,7 +72,7 @@ This repository contains the solutions for the Deloitte Data Analytics Virtual I
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 
 * Data preparation & calculated fields in Tableau.
 * Building interactive dashboards for business insights.
